@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="quotes">
+
+        <item>Wonder is the beginning of wisdom. — Socrates</item>
+        <item>True wisdom comes when we realize how little we understand. — Socrates</item>
+        <item>I know that I know nothing. — Socrates</item>
+        <item>Be kind, for everyone is fighting a hard battle. — Plato</item>
+        <item>Wise men speak because they have something to say. — Plato</item>
+        <item>The beginning is the most important part of the work. — Plato</item>
+        <item>Reality is created by the mind. — Plato</item>
+        <item>Happiness depends upon ourselves. — Aristotle</item>
+        <item>We are what we repeatedly do. — Aristotle</item>
+        <item>Knowing yourself is the beginning of all wisdom. — Aristotle</item>
+        <item>Quality is not an act, it is a habit. — Aristotle</item>
+
+        <item>It does not matter how slowly you go as long as you do not stop. — Confucius</item>
+        <item>Our greatest glory is not in never falling, but in rising every time we fall. — Confucius</item>
+        <item>Real knowledge is to know the extent of one’s ignorance. — Confucius</item>
+        <item>Life is really simple, but we insist on making it complicated. — Confucius</item>
+
+        <item>Luck is what happens when preparation meets opportunity. — Seneca</item>
+        <item>Difficulties strengthen the mind. — Seneca</item>
+        <item>We suffer more often in imagination than in reality. — Seneca</item>
+        <item>He who fears death will never do anything worthy of a living man. — Seneca</item>
+
+        <item>You have power over your mind, not outside events. — Marcus Aurelius</item>
+        <item>The happiness of your life depends on the quality of your thoughts. — Marcus Aurelius</item>
+        <item>Waste no more time arguing what a good man should be. Be one. — Marcus Aurelius</item>
+        <item>If it is not right do not do it; if it is not true do not say it. — Marcus Aurelius</item>
+
+        <item>He who has a why to live can bear almost any how. — Nietzsche</item>
+        <item>Become who you are. — Nietzsche</item>
+        <item>That which does not kill us makes us stronger. — Nietzsche</item>
+        <item>Without music, life would be a mistake. — Nietzsche</item>
+
+        <item>I think, therefore I am. — Descartes</item>
+        <item>Doubt is the origin of wisdom. — Descartes</item>
+        <item>Divide each difficulty into as many parts as is feasible. — Descartes</item>
+        <item>Conquer yourself rather than the world. — Descartes</item>
+
+        <item>Dare to know. — Kant</item>
+        <item>Science is organized knowledge. Wisdom is organized life. — Kant</item>
+        <item>Act only according to that maxim whereby you can at the same time will that it should become a universal law. — Kant</item>
+        <item>Happiness is not an ideal of reason but of imagination. — Kant</item>
+
+        <item>Judge a man by his questions rather than his answers. — Voltaire</item>
+        <item>Appreciation is a wonderful thing. — Voltaire</item>
+        <item>Common sense is not so common. — Voltaire</item>
+        <item>Every man is guilty of all the good he did not do. — Voltaire</item>
+
+        <item>A journey of a thousand miles begins with a single step. — Lao Tzu</item>
+        <item>Silence is a source of great strength. — Lao Tzu</item>
+        <item>Nature does not hurry, yet everything is accomplished. — Lao Tzu</item>
+        <item>When I let go of what I am, I become what I might be. — Lao Tzu</item>
+
+        <item>It’s not what happens to you, but how you react to it that matters. — Epictetus</item>
+        <item>No man is free who is not master of himself. — Epictetus</item>
+        <item>Wealth consists not in having great possessions, but in having few wants. — Epictetus</item>
+        <item>First say to yourself what you would be; then do what you have to do. — Epictetus</item>
+
+        <item>There is nothing permanent except change. — Heraclitus</item>
+        <item>Character is destiny. — Heraclitus</item>
+        <item>You cannot step into the same river twice. — Heraclitus</item>
+        <item>Everything flows. — Heraclitus</item>
+
+        <item>Freedom is what you do with what has been done to you. — Sartre</item>
+        <item>Man is condemned to be free. — Sartre</item>
+        <item>Existence precedes essence. — Sartre</item>
+        <item>Hell is other people. — Sartre</item>
+
+        <item>In the depth of winter, I finally learned that within me there lay an invincible summer. — Camus</item>
+        <item>Live to the point of tears. — Camus</item>
+        <item>In the midst of winter, I found there was, within me, an invincible summer. — Camus</item>
+
+        <item>Curiosity is the lust of the mind. — Hobbes</item>
+        <item>Life is nasty, brutish, and short. — Hobbes</item>
+
+        <item>New opinions are always suspected. — Locke</item>
+
+
+        <item>Beauty in things exists merely in the mind which contemplates them. — Hume</item>
+        <item>Reason is, and ought only to be the slave of the passions. — Hume</item>
+
+        <item>Compassion is the basis of morality. — Schopenhauer</item>
+        <item>All truth passes through three stages. — Schopenhauer</item>
+
+        <item>Peace is not absence of war, but a virtue. — Spinoza</item>
+        <item>The more you struggle to live, the less you live. — Spinoza</item>
+
+        <item>Life can only be understood backwards; but it must be lived forwards. — Kierkegaard</item>
+        <item>Anxiety is the dizziness of freedom. — Kierkegaard</item>
+
+        <item>Knowledge is power. — Francis Bacon</item>
+        <item>Some books are to be tasted, others to be swallowed. — Francis Bacon</item>
+
+        <item>The good life is one inspired by love and guided by knowledge. — Bertrand Russell</item>
+        <item>To conquer fear is the beginning of wisdom. — Bertrand Russell</item>
+
+        <item>The most radical revolutionary will become a conservative the day after the revolution. — Hannah Arendt</item>
+        <item>Power and violence are opposites. — Hannah Arendt</item>
+
+    </string-array>
+
+</resources>
