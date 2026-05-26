@@ -59,7 +59,7 @@ This project was created to practice:
 
 ## 👩‍💻 Author
 
-### Patricia Gea
+### Patricia Gea Rodrigues
 
 Mobile and  Frontend Developer, with 17 years of previous experience as a business owner, building and managing businesses across Brazil and Sweden.
 
