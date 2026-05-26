@@ -39,10 +39,8 @@ Quotes App created by **Patricia Gea** focused on learning modern Android develo
 ---
 
 ## 📸 Screenshots
-
-![App Screenshot](screenshots\app.png)
-<img src="screenshots/app.png" width="250">
-![screenshots\gifapp.gif](https://github.com/PatriciaGea/appquotes/blob/main/screenshots/gifapp.gif)
+<img src="screenshots/app.png" width="150">
+<img src="screenshots/gifapp.gif">
 
 ---
 
