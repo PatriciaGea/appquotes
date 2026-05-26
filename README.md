@@ -42,7 +42,7 @@ Quotes App created by **Patricia Gea** focused on learning modern Android develo
 
 ![App Screenshot](screenshots\app.png)
 <img src="screenshots/app.png" width="250">
-![App](screenshots\gifapp.gif)
+![screenshots\gifapp.gif](https://github.com/PatriciaGea/appquotes/blob/main/screenshots/gifapp.gif)
 
 ---
 
